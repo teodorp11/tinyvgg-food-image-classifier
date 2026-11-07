@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Model summary
+torchinfo>=1.8.0
+
+# Data handling & visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Downloading the dataset / custom images
+requests>=2.31.0
+
+# Running the notebook locally
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Note: `google.colab` is only needed when running the notebook in Google Colab
+# (it comes pre-installed there and is not available via pip).
+
